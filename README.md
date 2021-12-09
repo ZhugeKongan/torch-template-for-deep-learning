@@ -103,7 +103,7 @@ def load_dataset(data_config):
     - **UFOAttention**
     - **VIPAttention**
 
-#####Lightweight network
+##### Lightweight network
     - **MobileNets:**
     - **MobileNetV2：**
     - **MobileNetV3：**
@@ -114,7 +114,7 @@ def load_dataset(data_config):
     - **MixNet**
     - **GhostNet**
 
-#####ObjectDetection-network
+##### ObjectDetection-network
 
     - **SSD:**
     - **YOLO:**
@@ -128,7 +128,7 @@ def load_dataset(data_config):
     - **CenterNet**
     - **FoveaBox**
 
-#####Semantic Segmentation
+##### Semantic Segmentation
 
     - **FCN**
     - **Fast-SCNN**
@@ -136,15 +136,15 @@ def load_dataset(data_config):
     - **LRNNet**
     - **FisheyeMODNet:**
   
-#####Instance Segmentation
+##### Instance Segmentation
     - **PolarMask** 
   
-#####FaceDetectorAndRecognition
+##### FaceDetectorAndRecognition
     - **FaceBoxes**
     - **LFFD**
     - **VarGFaceNet**
 
-#####HumanPoseEstimation
+##### HumanPoseEstimation
 
     - **Stacked Hourglass Networks**
     - **Simple Baselines**
