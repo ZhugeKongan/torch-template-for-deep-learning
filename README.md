@@ -224,7 +224,7 @@ def load_dataset(data_config):
      Some have added copyright notices, and some don't remember the main references. If there is infringement, please contact to delete.**
 
 - **I wrote some blogs（which are in Chinese） to introduce the models implemented in this project**：
-    - [torch模板使用说明]()
+    - [torch模板使用说明](https://mp.weixin.qq.com/s/nXiFM6Mila2bH7fopbsVOw)
     - [论文综述：注意力机制](https://zhuanlan.zhihu.com/p/388122250)
     - [论文综述：特征可视化](https://zhuanlan.zhihu.com/p/420954745)
     - [论文综述：数据增强&网络正则化](https://zhuanlan.zhihu.com/p/402511359)
