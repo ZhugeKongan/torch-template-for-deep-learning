@@ -1,13 +1,17 @@
 # Torch-template-for-deep-learning
-- Unofficial implementations of some **classical backbone CNNs, data enhancement, torch loss, attention, visualization and  some common algorithms with pytorch**.
+ Pytorch implementations of some **classical backbone CNNs, data enhancement, torch loss, attention, visualization and  some common algorithms **.
 
-- **Requirements**：
+### Requirements
 
   · torch, torch-vision
 
   · torchsummary
   
   · other necessary
+
+### usage
+A training script is supplied in “train_baseline.py”, the arguments are in “args.py
+
 ### autoaug: Data enhancement and CNNs regularization
     - StochDepth
     - label smoothing
@@ -215,8 +219,6 @@ def load_dataset(data_config):
     
 ### Note
 - **More modules may be added later**.
-
-- **A training script is supplied in “train_baseline.py”，the arguments are in “args.py"**.
 
 - **During the implementation process, I read a lot of codes and articles and referred to a lot of contents.
      Some have added copyright notices, and some don't remember the main references. If there is infringement, please contact to delete.**
