@@ -1,5 +1,5 @@
-
-source:  https://github.com/lxztju/notes
+### Reference
+ https://github.com/lxztju/notes
 
 提供两种pytorch模型的部署方式,一种为web部署,一种是c++部署
 ### flask云端部署
