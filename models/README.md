@@ -69,7 +69,35 @@ Pytorch implementation of cnn network
 - **MixNet**
 - **GhostNet**
 
-
+**GAN**
+- **Auxiliary Classifier GAN**
+- **Adversarial Autoencoder**
+- **BEGAN**
+- **BicycleGAN**
+- **Boundary-Seeking GAN**
+- **Cluster GAN**
+- **Conditional GAN**
+- **Context-Conditional GAN**
+- **Context Encoder**
+- **Coupled GAN**
+- **CycleGAN**
+- **Deep Convolutional GAN**
+- **DiscoGAN**
+- **DRAGAN**
+- **DualGAN**
+- **Energy-Based GAN**
+- **Enhanced Super-Resolution GAN**  
+- **Least Squares GAN**
+- **Enhanced Super-Resolution GAN**
+- **GAN**
+- **InfoGAN**
+- **Pix2Pix**
+- **Relativistic GAN**
+- **Semi-Supervised GAN**
+- **StarGAN**
+- **Wasserstein GAN**
+- **Wasserstein GAN GP**
+- **Wasserstein GAN DIV**
 
 **ObjectDetection-network**
 
