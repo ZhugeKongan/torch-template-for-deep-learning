@@ -7,11 +7,11 @@ class data_config:
     dataset='cifar100'
     input_size = 32
     num_class = 100
-    data_path = '/disks/disk2/lishengyan/MyProject/Attention_and_CifarModel/dataset'
+    data_path = './dataset'
     train_file=''
     val_file = ''
     test_file = ''
-    MODEL_PATH = '/disks/disk2/lishengyan/MyProject/Attention_and_CifarModel/ckpts/cifar100/resnet50/esebase_fselectmixno/'
+    MODEL_PATH = './ckpts/cifar100/resnet/'
     if not os.path.exists(MODEL_PATH):
         os.makedirs(MODEL_PATH)
 
