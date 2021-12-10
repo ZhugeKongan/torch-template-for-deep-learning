@@ -231,7 +231,7 @@ def load_dataset(data_config):
 - **Some of My Reference Repositories**：
     - https://github.com/xmu-xiaoma666/External-Attention-pytorch
     - https://github.com/eriklindernoren/PyTorch-GAN
-    - https://www.zhihu.com/column/c_1297860785633751040
+    - https://www.zhihu.com/people/ZhugeKongan
     - https://github.com/ZhugeKongan/Attention-mechanism-implementation
     - https://github.com/ZhugeKongan/-DataAug-and-NetRegularization
     
