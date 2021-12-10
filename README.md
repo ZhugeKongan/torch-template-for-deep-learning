@@ -11,7 +11,7 @@
 
 ### usage
 A training script is supplied in “train_baseline.py”, the arguments are in “args.py
-
+<img src="https://github.com/ZhugeKongan/-DataAug-and-NetRegularization/blob/main/data/stochdepth.png" width=50% />
 ### autoaug: Data enhancement and CNNs regularization
     - StochDepth
     - label smoothing
