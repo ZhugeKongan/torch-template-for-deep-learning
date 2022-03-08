@@ -50,7 +50,8 @@ else:#multi gpus
     gpus = ','.join(str(i) for i in data_config.gpus)
     os.environ["CUDA_VISIBLE_DEVICES"] = gpus
     model =ResNet18(dataset=data_config.dataset,num_classes=data_config.num_class).cuda()
-    model = torch.nn.DataParallel(model,device_ids=data_config.gpus)
+    gpus = [i for i in range(len(data_config.gpus))]
+    model = torch.nn.DataParallel(model, device_ids=gpus)
 model_path=data_config.MODEL_PATH+'/{}_best_params.pkl'.format(data_config.model_name)
 # model.load_state_dict(torch.load(model_path))
 
